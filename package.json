@@ -3,7 +3,7 @@
   "description": "Click multiple times in Cypress",
   "author": "MohamadKh75",
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "files": [
     "lib"
