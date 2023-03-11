@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "outDir": "lib",
+    "declaration": true,
+    "skipLibCheck": true,
+    "types": ["cypress"]
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "lib"]
+}
