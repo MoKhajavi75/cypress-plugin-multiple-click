@@ -10,7 +10,7 @@
   ],
   "typings": "lib/index.d.ts",
   "scripts": {
-    "dev": "cypress open",
+    "dev": "cypress open -C cypress/config.ts -b chrome --e2e",
     "clean": "rimraf lib",
     "build": "tsc",
     "release": "pnpm clean && pnpm build && release-it",
