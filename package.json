@@ -20,6 +20,10 @@
     "format": "prettier -w . --config .prettierrc.json",
     "prepare": "husky install"
   },
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:MohamadKh75/cypress-plugin-multiple-click.git"
