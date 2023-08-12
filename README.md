@@ -41,7 +41,7 @@ You can now easily use `cy.clicks()`. It takes two parameters:
 - `times`: number of clicks - default is 1
 - `options`: click options ([ref](https://docs.cypress.io/api/commands/click))
 
-## 📝 Example
+## 📐 Example
 
 Take a look at [Cypress folder](/cypress/e2e/test.cy.ts)
 
