@@ -10,19 +10,19 @@
 
 - npm:
 
-```bash
+```shell
 npm install cypress-plugin-multiple-click
 ```
 
 - yarn:
 
-```bash
+```shell
 yarn add cypress-plugin-multiple-click
 ```
 
 - pnpm:
 
-```
+```shell
 pnpm add cypress-plugin-multiple-click
 ```
 
